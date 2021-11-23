@@ -17,5 +17,12 @@ Se podrán eliminar gastos que hayan sido agregados por error, pero luego de hab
 <img src="https://user-images.githubusercontent.com/79548542/143135095-ae9cd644-3941-4689-91c1-8d23a426f115.png" width="250px">
 </div>
 
+## Tecnologías utilizadas
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 ## Authors
 - [@LeoSs](https://github.com/iam-leo)
